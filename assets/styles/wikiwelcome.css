@@ -1,0 +1,21 @@
+.chk-wiki {
+    float: left;
+    margin-right: 3%;
+    width: 30%;
+}
+#welcomeliteform{
+    margin-top:12px;
+}
+#welcomeliteform .wikiex_url{
+    margin-bottom: 8px;
+}
+#welcomeliteform .wikiex_input_item{
+    margin-right:10px;
+    float:left;
+}
+#welcomeliteform .wikiwc_general_source{
+    margin-bottom: 24px;
+}
+.wikiclear{
+    clear:both;
+}
